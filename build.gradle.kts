@@ -3,8 +3,8 @@ plugins {
     `maven-publish`
 }
 
-group = "org.example"
-version = "1.0-SNAPSHOT"
+group = "com.github.marlet"
+version = "v0.1.2"
 
 repositories {
     mavenCentral()
